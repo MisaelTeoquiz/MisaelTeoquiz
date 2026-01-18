@@ -1,7 +1,8 @@
-## Hi there 👋
+# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFmenpqeDRjM3VvMXl5YjdldHBnY3EyZjl1bGE3Ym5kMG0wYnByYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width:100/>
 
-<!--
-**MisaelTeoquiz/MisaelTeoquiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my repository, I'm Misael Teoquiz, a full-stack programmer and mobile app developer. These are the tools I've worked with.
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
