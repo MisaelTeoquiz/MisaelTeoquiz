@@ -1,6 +1,13 @@
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFmenpqeDRjM3VvMXl5YjdldHBnY3EyZjl1bGE3Ym5kMG0wYnByYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width:100/>
+<h1>Welcome to my repository </h1>
+I'm Misael Teoquiz, a full-stack programmer and mobile app developer. 
+I'm passionate about building scalable and maintainable solutions. My primary focus is applying sound engineering practices to solve complex business problems.
+These are the tools I've worked with.
 
-Welcome to my repository, I'm Misael Teoquiz, a full-stack programmer and mobile app developer. These are the tools I've worked with.
+My projects:
+Project: Stationery - Web API with Hexagonal Architecture
+
+In this project, I demonstrate the implementation of a Hexagonal Architecture (Ports and Adapters) to separate domain logic from external dependencies, MySQL databases, Spring Boot frameworks for the back end, and Angular for the front end.
 
 
 
