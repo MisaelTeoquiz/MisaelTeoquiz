@@ -1,24 +1,55 @@
-# <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXFmenpqeDRjM3VvMXl5YjdldHBnY3EyZjl1bGE3Ym5kMG0wYnByYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width:100/>
-<h1>Welcome to my repository </h1>
-I'm Misael Teoquiz, a full-stack programmer and mobile app developer. 
-I'm passionate about building scalable and maintainable solutions. My primary focus is applying sound engineering practices to solve complex business problems.
-These are the tools I've worked with.
+# <h1> Welcome to my repository! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> </h1>
 
-My projects:
-Project: Stationery - Web API with Hexagonal Architecture
+### 🚀 I'm Misael, Full-Stack Developer & Mobile App from [bander] Tlaxcala, México
 
-In this project, I demonstrate the implementation of a Hexagonal Architecture (Ports and Adapters) to separate domain logic from external dependencies, MySQL databases, Spring Boot frameworks for the back end, and Angular for the front end.
+Soy un apasionado por construir soluciones **escalables y mantenibles**. Mi enfoque principal es aplicar prácticas sólidas de ingeniería para resolver problemas de negocio complejos, priorizando siempre la calidad del código y la arquitectura.
 
+---
 
+### 🛠️ Tecnologías y Herramientas
 
-Here are some ideas to get you started:
+Aquí están las herramientas con las que doy vida a mis ideas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Frontend & Mobile**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+**Backend & Infrastructure**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📂 Proyectos Destacados
+
+#### 🏗️ [Stationery - Web API con Arquitectura Hexagonal](LINK_A_TU_REPO)
+Este proyecto demuestra la implementación de **Arquitectura Hexagonal (Ports and Adapters)** para separar la lógica de dominio de las dependencias externas.
+
+* **Backend:** Java con **Spring Boot**.
+* **Frontend:** **Angular** para una interfaz dinámica.
+* **Base de Datos:** **MySQL**.
+* **Lo más destacado:** Desacoplamiento total del núcleo de negocio, facilitando pruebas unitarias y escalabilidad técnica.
+
+#### 📱 [Nombre de tu App Móvil](LINK_A_TU_REPO)
+*Descripción breve de tu app móvil aquí (ej. App para gestión de tareas o e-commerce).*
+
+---
+
+### ⚡ Un poco más sobre mí
+
+- 🔭 **Actualmente trabajando en:** Un sistema de microservicios.
+- 🌱 **Aprendiendo:** Cloud Computing (GCP) y patrones de diseño avanzados.
+- 💬 **Pregúntame sobre:** Java, Angular, Arquitectura Limpia y cómo estructurar proyectos escalables.
+- 📫 **Cómo contactarme:** [Tu LinkedIn o Email]
+- ⚡ **Dato curioso:** ¡Me encanta resolver retos lógicos mientras tomo un buen café!
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</div>
