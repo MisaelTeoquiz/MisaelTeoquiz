@@ -1,27 +1,36 @@
-# <h1> Welcome to my repository! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> </h1>
+# <h1> Hola, soy Misael Teoquiz <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> </h1>
 
-### 🚀 I'm Misael, Full-Stack Developer & Mobile App from [bander] Tlaxcala, México
+### 🚀 Full-Stack Developer & Mobile App Enthusiast de Tlaxcala, México
 
-Soy un apasionado por construir soluciones **escalables y mantenibles**. Mi enfoque principal es aplicar prácticas sólidas de ingeniería para resolver problemas de negocio complejos, priorizando siempre la calidad del código y la arquitectura.
+I am passionate about building **scalable and maintainable solutions**. My primary focus is applying sound engineering practices to solve complex business problems, always prioritizing code quality and architecture..
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and Tools
 
-Aquí están las herramientas con las que doy vida a mis ideas:
-
-**Frontend & Mobile**
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & Infrastructure**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Mobile**
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Otros**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -33,20 +42,19 @@ Este proyecto demuestra la implementación de **Arquitectura Hexagonal (Ports an
 * **Backend:** Java con **Spring Boot**.
 * **Frontend:** **Angular** para una interfaz dinámica.
 * **Base de Datos:** **MySQL**.
-* **Lo más destacado:** Desacoplamiento total del núcleo de negocio, facilitando pruebas unitarias y escalabilidad técnica.
+* **Arquitectura:** Fuerte enfoque en el desacoplamiento y mantenibilidad.
 
 #### 📱 [Nombre de tu App Móvil](LINK_A_TU_REPO)
-*Descripción breve de tu app móvil aquí (ej. App para gestión de tareas o e-commerce).*
+*Descripción de tu app desarrollada en Android Studio.*
 
 ---
 
 ### ⚡ Un poco más sobre mí
 
-- 🔭 **Actualmente trabajando en:** Un sistema de microservicios.
-- 🌱 **Aprendiendo:** Cloud Computing (GCP) y patrones de diseño avanzados.
-- 💬 **Pregúntame sobre:** Java, Angular, Arquitectura Limpia y cómo estructurar proyectos escalables.
-- 📫 **Cómo contactarme:** [Tu LinkedIn o Email]
-- ⚡ **Dato curioso:** ¡Me encanta resolver retos lógicos mientras tomo un buen café!
+- 🔭 **Actualmente trabajando en:** Mejora de sistemas de arquitectura limpia.
+- 🌱 **Aprendiendo:** Estrategias avanzadas en la nube con Azure y AWS.
+- 💬 **Pregúntame sobre:** Java, Spring Boot, Angular y desarrollo móvil.
+- 📫 **Cómo contactarme:** [Tu enlace aquí]
 
 ---
 
