@@ -54,7 +54,7 @@ Fórmula utilizada:Para este cálculo se aplicó la fórmula de interés simple:
 * **r:** Tasa de interés anual.
 * **t:** Tiempo en años.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/tu_archivo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13B3qCIeTfTNBZXiSW1WJPZwWI23T-85a?usp=sharing)
 
 
 #### 📱 [Nombre de tu App Móvil](LINK_A_TU_REPO)
