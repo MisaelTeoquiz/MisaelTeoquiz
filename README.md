@@ -44,6 +44,19 @@ Este proyecto demuestra la implementación de **Arquitectura Hexagonal (Ports an
 * **Base de Datos:** **MySQL**.
 * **Arquitectura:** Fuerte enfoque en el desacoplamiento y mantenibilidad.
 
+#### 💸 Simple Loan Calculator (Python)
+
+* **Descripción:** Script de automatización financiera que calcula el interés simple y el monto total de retorno basado en tres variables clave: Capital, Tasa y Tiempo.
+Fórmula utilizada:Para este cálculo se aplicó la fórmula de interés simple:$$I = \frac{P \cdot r \cdot t}{100}$$
+
+**Donde**
+* **P:** Monto principal (Préstamo). 
+* **r:** Tasa de interés anual.
+* **t:** Tiempo en años.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/tu_archivo.ipynb)
+
+
 #### 📱 [Nombre de tu App Móvil](LINK_A_TU_REPO)
 *Descripción de tu app desarrollada en Android Studio.*
 
