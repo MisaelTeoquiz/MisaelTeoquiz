@@ -36,40 +36,48 @@ I am passionate about building **scalable and maintainable solutions**. My prima
 
 ### 📂 Proyectos Destacados
 
-#### 🏗️ [Stationery - Web API con Arquitectura Hexagonal](LINK_A_TU_REPO)
-Este proyecto demuestra la implementación de **Arquitectura Hexagonal (Ports and Adapters)** para separar la lógica de dominio de las dependencias externas.
+#### 🏗️ [Stationery - Web API with Hexagonal Architecture](LINK_A_TU_REPO)
+This project demonstrates the implementation of **Hexagonal Architecture (Ports and Adapters)** to separate domain logic from external dependencies.
 
-* **Backend:** Java con **Spring Boot**.
-* **Frontend:** **Angular** para una interfaz dinámica.
-* **Base de Datos:** **MySQL**.
-* **Arquitectura:** Fuerte enfoque en el desacoplamiento y mantenibilidad.
+* **Backend:** Java with **Spring Boot**.
+
+* **Frontend:** **Angular** for a dynamic interface.
+
+* **Database:** **MySQL**.
+
+* **Architecture:** Strong focus on decoupling and maintainability.
 
 #### 💸 Simple Loan Calculator (Python)
 
-* **Descripción:** Script de automatización financiera que calcula el interés simple y el monto total de retorno basado en tres variables clave: Capital, Tasa y Tiempo.
-Fórmula utilizada:Para este cálculo se aplicó la fórmula de interés simple:$$I = \frac{P \cdot r \cdot t}{100}$$
+* **Description:** Financial automation script that calculates simple interest and total return based on three key variables: Principal, Rate, and Time.
 
-**Donde**
-* **P:** Monto principal (Préstamo). 
-* **r:** Tasa de interés anual.
-* **t:** Tiempo en años.
+Formula used: The simple interest formula was applied for this calculation: I = P*r*t/100
 
-**Prueba mi código**
+**Where**
+* **P:** Principal amount (Loan).
+
+* **r:** Annual interest rate.
+
+* **t:** Time in years.
+
+**Test my code**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13B3qCIeTfTNBZXiSW1WJPZwWI23T-85a?usp=sharing)
 
 
-#### 📱 [Nombre de tu App Móvil](LINK_A_TU_REPO)
-*Descripción de tu app desarrollada en Android Studio.*
+#### 📱 [Your Mobile App Name](LINK_TO_YOUR_REPO)
+*Description of your app developed in Android Studio.*
 
 ---
 
-### ⚡ Un poco más sobre mí
+### ⚡ A little more about me
 
-- 🔭 **Actualmente trabajando en:** Mejora de sistemas de arquitectura limpia.
-- 🌱 **Aprendiendo:** Estrategias avanzadas en la nube con Azure y AWS.
-- 💬 **Pregúntame sobre:** Java, Spring Boot, Angular y desarrollo móvil.
-- 📫 **Cómo contactarme:** [Tu enlace aquí]
+- 🔭 **Currently working on:** Improving clean architecture systems.
+
+- 🌱 **Learning:** Advanced cloud strategies with Azure and AWS.
+
+- 💬 **Ask me about:** Java, Spring Boot, Angular, and mobile development.
+
 
 ---
 
