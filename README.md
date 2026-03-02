@@ -1,6 +1,3 @@
-
-<<<<<<< HEAD
-=======
 ### 🚀 Full-Stack Developer & Mobile App Enthusiast de Tlaxcala, México
 
 I am passionate about building **scalable and maintainable solutions**. My primary focus is applying sound engineering practices to solve complex business problems, always prioritizing code quality and architecture..
@@ -71,7 +68,7 @@ Formula used: The simple interest formula was applied for this calculation: I = 
 
 **Test my code**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13B3qCIeTfTNBZXiSW1WJPZwWI23T-85a?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13B3qCIeTfTNBZXiSW1WJPZwWI23T-85a?usp=sharing)
 
 
 
@@ -95,4 +92,3 @@ Formula used: The simple interest formula was applied for this calculation: I = 
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
 
->>>>>>> b55e503c9f1833e22efb5cbef9530dda23c1acc5
