@@ -1,5 +1,6 @@
-# <h1> Hola, soy Misael Teoquiz <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px"> </h1>
 
+<<<<<<< HEAD
+=======
 ### 🚀 Full-Stack Developer & Mobile App Enthusiast de Tlaxcala, México
 
 I am passionate about building **scalable and maintainable solutions**. My primary focus is applying sound engineering practices to solve complex business problems, always prioritizing code quality and architecture..
@@ -84,3 +85,5 @@ Formula used: The simple interest formula was applied for this calculation: I = 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
 </div>
+
+>>>>>>> b55e503c9f1833e22efb5cbef9530dda23c1acc5
