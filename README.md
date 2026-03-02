@@ -65,6 +65,15 @@ Formula used: The simple interest formula was applied for this calculation: I = 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13B3qCIeTfTNBZXiSW1WJPZwWI23T-85a?usp=sharing)
 
+#### 🍎🍋🥭 Multiclass Classification Evaluation with ROC Curves and ROC AUC (Python)
+
+* **Description:** Analyze a fruit classification dataset, preprocess the images, train a multi-class classification model, predict probabilities for the test set, and then calculate and visualize the One-vs-Rest ROC curves and their corresponding AUCs for each class.
+
+**Test my code**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13B3qCIeTfTNBZXiSW1WJPZwWI23T-85a?usp=sharing))
+
+
 
 #### 📱 [Your Mobile App Name](LINK_TO_YOUR_REPO)
 *Description of your app developed in Android Studio.*
