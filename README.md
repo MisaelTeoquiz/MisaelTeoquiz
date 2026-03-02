@@ -51,7 +51,7 @@ This project demonstrates the implementation of **Hexagonal Architecture (Ports 
 
 * **Description:** Financial automation script that calculates simple interest and total return based on three key variables: Principal, Rate, and Time.
 
-Formula used: The simple interest formula was applied for this calculation: I = P*r*t/100
+Formula used: The simple interest formula was applied for this calculation: I = P(r) (t)/100
 
 **Where**
 * **P:** Principal amount (Loan).
